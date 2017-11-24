@@ -1,1 +1,1 @@
-# Coffee-Locator
+# Coffee Shop-Locator
